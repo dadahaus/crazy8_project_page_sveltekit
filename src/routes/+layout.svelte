@@ -6,11 +6,11 @@
 	import '../scss/style.css';
 	import Footer from './components/Footer.svelte';
 	import List from './components/List.svelte';
-	import Nav from './components/Nav.svelte';
+	// import Nav from './components/Nav.svelte';
 </script>
 
 <div class="app">
-	<Nav />
+	<!-- <Nav /> -->
 	<main>
 		<slot />
 	</main>

@@ -1,4 +1,5 @@
 <script>
+	import Nav from './Nav.svelte';
 
 </script>
 
@@ -6,7 +7,7 @@
 	<title>first project section</title>
 	<meta name="description" content="first" />
 </svelte:head>
-
+<Nav />
 <img src="src/assets/1.png" alt="image" srcset="" />
 
 

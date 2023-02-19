@@ -6,15 +6,15 @@
 	// import Fifth from './components/Fifth.svelte';
 	import List from './components/List.svelte';
 </script>
+<main>
+
+
+</main>
 
 <svelte:head>
 	<title>first navbar</title>
 	<meta name="description" content="portfolio" />
 </svelte:head>
 
-
-
-
 <style lang="scss">
-
 </style>
