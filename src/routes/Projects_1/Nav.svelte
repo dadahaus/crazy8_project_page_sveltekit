@@ -4,9 +4,9 @@
 
 <nav>
 	<ul>
-		<a class="left_nav" href="/"><h5>hi</h5></a>
+		<a class="left_nav" href="/"><h5>previous</h5></a>
 		<a class="center_nav" href="/"><h5>back</h5></a>
-		<a class="right_nav" href="http://"><h5>hi</h5></a>
+		<a class="right_nav" href="http://"><h5>next</h5></a>
 	</ul>
 </nav>
 
@@ -25,7 +25,7 @@
 				justify-content: center;
 				font-weight: 100;
 			}
-			
+
 			.left_nav {
 			}
 
